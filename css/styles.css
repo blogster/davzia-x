@@ -1,6 +1,7 @@
 body{
   background-color: #000000;
   color: white;
+  
 }
 
 .nav-item{
@@ -20,6 +21,10 @@ body{
 .main-heading-h1{
   font-size: 120px;
   text-align: center;
+}
+
+.heading-p{
+  font-size: 50px;
 }
 
 .creative-heading{
