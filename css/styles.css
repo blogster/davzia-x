@@ -1,0 +1,38 @@
+body{
+  background-color: #000000;
+  color: white;
+}
+
+.nav-item{
+  color: white;
+}
+
+.main-menu-nav{
+  background-color:#000000;
+  color: #fff;
+}
+
+#main-heading{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.main-heading-h1{
+  font-size: 120px;
+  text-align: center;
+}
+
+.creative-heading{
+  text-decoration: underline #febf55;
+}
+
+.heading-div{
+  text-align: center;
+}
+
+.in-touch-button{
+  font-weight: 800;
+  font-size: 50px;
+  background-color: #febf55;
+  color: black;
+}
